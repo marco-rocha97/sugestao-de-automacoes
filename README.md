@@ -4,7 +4,7 @@
 
 ## 📋 Como solicitar
 
-Clique aqui para [![Formulário de Solicitação](https://img.shields.io/badge/📋_Solicitar_Automação-FF6D5A?style=for-the-badge)](https://webhook.marcorocha.digital/form/540057ce-a737-4c20-9feb-d2a3351239f6)
+[![Clique aqui para solicitar sua automação]](https://webhook.marcorocha.digital/form/540057ce-a737-4c20-9feb-d2a3351239f6)
 
 **No formulário, descreva:**
 - Processo atual que você executa manualmente
